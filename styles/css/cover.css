@@ -47,6 +47,7 @@ body {
   display: table-cell;
   vertical-align: top;
   padding-top: 1em;
+  height: 100%; /* For Firefox */
 }
 .cover-container {
   margin-right: auto;
