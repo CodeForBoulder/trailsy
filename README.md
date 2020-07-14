@@ -1,3 +1,11 @@
+# Trailsy (archived)
+
+## ARCHIVE UPDATE
+
+This project lost traction and will be archived. If you find this and wish to pick it up, please [join us](http://www.codeforboulder.org/) and consider [resubmitting a proposal](http://www.codeforboulder.org/project-proposals).
+
+## About
+
 ![alt text](https://github.com/CodeForBoulder/trailsy/blob/master/img/logo-bc.png "Trailsy")
 
 This version of Trailsy is a Code for Boulder project that uses [OuterSpatial](http://outerspatial.com) API calls to
